@@ -1,3 +1,3 @@
-module github.com/zeromicro/antlr
+module github.com/shuguocloud/antlr
 
 go 1.16
